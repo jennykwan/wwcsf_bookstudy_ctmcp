@@ -26,6 +26,8 @@ Minimally formal is still formal. If one has not attempted to work through such 
 
 One may find this journey intense. With the exception of GoF (very informal), each of these is much more formal that __CTMCP__, but gives one the idea of what formal theoretical computer science looks like.
 
+> It is absolutely unnecessary to have worked through these texts before! They are provided as examples to illustrate what to expect. The event series lead highly recommends at least looking at SICP to get an idea of what is involved.
+
 The target audience of this book study is practitioners in industry (i.e. software engineers, probably in user space). Both so-called backend engineers and frontend enigneers will benefit. Deployment architecture (i.e. microservice layout) and DevOps will likely not benefit, though the text does cover actor-model concurrency. 5-10 years of professional experience engineering systems is recommended. Less experience is needed if the professional has spread out that experience aggressively across a diversity of system architectures. More experience is recommended if the professional has focused on a single architecture but the person has progressed linearly in roles. (__CTMCP__ is a large exercise in compare and contrast, so a diversity of exposure to architectures is recommended.)
 
 Those with less experience are certainly welcome! Just be prepared to work! The book study can provide some support, but be prepared to work alone!
