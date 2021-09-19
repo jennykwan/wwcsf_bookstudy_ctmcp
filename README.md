@@ -8,7 +8,9 @@ WWC SF book study of the textbook, __Concepts, Techniques, and Models of Compute
 - Publisher site for book: https://mitpress.mit.edu/books/concepts-techniques-and-models-computer-programming
 - Women Who Code SF: https://www.womenwhocode.com/sf
 
-Currently, the event series lead envisions a 2 hour real-time session over video twice a month. This session is to discuss questions and issues that arose during homework; reading the text and writing code is homework between sessions! 1.5 to 2 hours of text study and an hour of writing code to solve problems related to the text is the envisioned commitment between sessions. This may be more or less depending on the attendee's background. The sessions build on each other, so be prepared to commit. The series is therefore not drop-in. The lead anticipates a year for the series.
+Currently, the event series lead envisions a 2 hour real-time session over video twice a month. This session is to discuss questions and issues that arose during reading and exercises; reading the text and doing the exercises is are both homework between sessions! 1.5 to 2 hours of text study and an hour of exercises are the envisioned commitment between sessions. This may be more or less depending on the attendee's background. The sessions build on each other, so be prepared to commit; the series is not drop-in. The lead anticipates a year for the series.
+
+Homework in the form of exercises is a work in progress. For an example: [01: Introduction to Programming Concepts](./01_introduction_to_programming_concepts.md).
 
 # Why
 __CTMCP__ covers many popular (and not so popular) ___models of computation___ in a minimally formal and rigorous way for software engineers and other computer programmers outside of theoretical computer science. The benefit is a rigorous grounding without deep academic background, which leads to clearer thinking and code.
